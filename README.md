@@ -23,16 +23,16 @@ Power drive unit, consisting of two symmetrical bevel gear transmission mechanis
 
 ---
 <div align='center'>
-  <img src='image1466.gif'>
+  <img src='fig2.jpg'>
 </div>
 <div align='center'>
-  <font size='50'>Lasso exoskeleton robot wearing and walking</font>
+  <font size='50'>Lower limb ankle lasso exoskeleton robot prototype</font>
   </div>
   
- ---
+---
  <div align='center'>
-  <img src='image1466.gif'>
+  <img src='fig8.jpg'>
 </div>
 <div align='center'>
-  <font size='50'>Lasso exoskeleton robot wearing and walking</font>
+  <font size='50'>Power output back box</font>
   </div>
