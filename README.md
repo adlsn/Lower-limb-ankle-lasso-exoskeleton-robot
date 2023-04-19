@@ -1,4 +1,4 @@
-# Lower-limb-ankle-lasso-exoskeleton-robot
+# Lower-limb-ankle-cable-driven-exoskeleton-robot
 ---
 * ### Approval department: National Natural Science Foundation of China (`NSFC`)
 * ### Project Requirement: Research on an exoskeleton robot that helps patients with lower `limb disorders` to walk Normally. 
